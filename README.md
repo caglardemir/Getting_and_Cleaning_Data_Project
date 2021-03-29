@@ -13,6 +13,7 @@ run_analysis.R script performs the following:
 
 
 **Repository Information** 
+
 This repository contains 3 main files:
 1. run_analysis.R - This script is used to build up and perform the analysis on the required sample data.
 2. FinalData.txt - This is the final output from the run_analysis.R script.  It contains a cleaned version of the sample data.
